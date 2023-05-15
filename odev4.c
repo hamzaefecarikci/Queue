@@ -50,7 +50,7 @@ int main(int argc, char *argv[])
 	int ekle;
 	int i = 1;
 	
-	while(i==1)
+	while(i==1)//Menunun oldugu kisimdir.
 	{
 		printf("\nLutfen asagidaki islemlerden birini seciniz\n\n");
 		printf("1. Ekleme\n2. Silme\n3. Goruntuleme\n4. Cikis");
